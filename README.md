@@ -29,6 +29,8 @@ A lightweight, self-hosted Kanban board designed specifically for home IT labora
    ```bash
    cp .env.example .env
    # Edit .env with your preferred text editor
+   mkdir -p data && sudo chown -R 1000:1000 data
+   #create database directory and set access rights
    ```
 
 3. **Start the application:**
