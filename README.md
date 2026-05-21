@@ -20,7 +20,7 @@ A lightweight, self-hosted Kanban board designed specifically for home IT labora
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/it-backlog-manager.git
+   git clone https://github.com/makssly/it-backlog-manager.git
    cd it-backlog-manager
    ```
 
